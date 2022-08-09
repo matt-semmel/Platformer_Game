@@ -1,6 +1,3 @@
-# Matt Semmel
-# mws73
-
 # This is used in a few places to make grading your project easier.
 .eqv GRADER_MODE 1
 
